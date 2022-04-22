@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1648228367 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Button.cpp
+	"../include/Button.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1648226173 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Button.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1648553828 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/main_entityEditor.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<math.h>
+	<string>
+	<fstream>
+	"../include/TextBox.h"
+	"../include/Button.h"
+
+1648229563 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/TextBox.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1648229680 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/TextBox.cpp
+	"../include/TextBox.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+

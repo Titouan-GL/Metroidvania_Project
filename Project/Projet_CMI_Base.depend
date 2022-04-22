@@ -1,0 +1,464 @@
+# depslib dependency file v1.0
+1650135322 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Animation.cpp
+	"../include/Animation.h"
+	<SFML/Graphics.hpp>
+
+1650135455 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Animation.h
+	<SFML/Graphics.hpp>
+
+1650150675 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Collider.cpp
+	"../include/Collider.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1650135749 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Collider.h
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1650132991 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Ennemies/EnnemyBoss1.cpp
+	"../../include/Ennemies/EnnemyBoss1.h"
+	<stdlib.h>
+
+1650134996 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Ennemies/EnnemyBoss1.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1650132308 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Living_Entity.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	<fstream>
+	<vector>
+
+1650136345 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	"Living_Entity.h"
+	"Ground.h"
+	<fstream>
+	<vector>
+
+1650135953 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Ground.h
+	"Collider.h"
+	<SFML/Graphics.hpp>
+
+1650133001 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Ennemies/EnnemyFlying_eye.cpp
+	"../../include/Ennemies/EnnemyFlying_eye.h"
+	<stdlib.h>
+
+1650135080 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Ennemies/EnnemyFlying_eye.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Ground.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	<fstream>
+	<vector>
+
+1650133010 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Ennemies/EnnemySkeleton.cpp
+	"../../include/Ennemies/EnnemySkeleton.h"
+	<stdlib.h>
+
+1650135165 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Ennemies/EnnemySkeleton.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1645533256 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Fading.cpp
+	"../include/Fading.h"
+	<math.h>
+	<iostream>
+
+1645532938 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Fading.h
+	<SFML/Graphics.hpp>
+
+1650136008 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Ground.cpp
+	"../include/Ground.h"
+	<iostream>
+	<math.h>
+
+1645547868 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Hitbox.cpp
+	"../include/Hitbox.h"
+	<SFML/Graphics.hpp>
+
+1645547104 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Hitbox.h
+	<SFML/Graphics.hpp>
+
+1650134003 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Living_Entity.cpp
+	"../include/Living_Entity.h"
+
+1650134485 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<math.h>
+	"../include/Map.h"
+	"../include/Ground.h"
+	"../include/Animation.h"
+	"../include/Player.h"
+	"../include/Collider.h"
+	"../include/Fading.h"
+	"../include/Living_Entity.h"
+	"../include/MainMenu.h"
+	"../include/Ennemies/EnnemyFlying_eye.h"
+	"../include/Ennemies/EnnemySkeleton.h"
+	"../include/Ennemies/EnnemyBoss1.h"
+
+1650133603 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/Map.h
+	"Ground.h"
+	<vector>
+	<variant>
+	"Living_Entity.h"
+	"Ennemies/EnnemyFlying_eye.h"
+	"Ennemies/EnnemySkeleton.h"
+	"Ennemies/EnnemyBoss1.h"
+
+1650133706 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Map.cpp
+	"../include/Map.h"
+	<iostream>
+
+1650147279 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/Player.cpp
+	<SFML/Graphics.hpp>
+	<typeinfo>
+	<math.h>
+	"../include/Player.h"
+
+1650128664 /sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/include/MainMenu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1650134156 source:/sda4/home_of_sda2/titouan/Documents/code/git/le-platformeur-2D/Projet_CMI_Base/src/MainMenu.cpp
+	<SFML/Graphics.hpp>
+	"../include/MainMenu.h"
+
+1650135322 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Animation.cpp
+	"../include/Animation.h"
+	<SFML/Graphics.hpp>
+
+1650135454 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Animation.h
+	<SFML/Graphics.hpp>
+
+1650150674 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Collider.cpp
+	"../include/Collider.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1650135748 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Collider.h
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1650133000 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Ennemies/EnnemyFlying_eye.cpp
+	"../../include/Ennemies/EnnemyFlying_eye.h"
+	<stdlib.h>
+
+1650135080 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Ennemies/EnnemyFlying_eye.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Ground.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	<fstream>
+	<vector>
+
+1650135952 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Ground.h
+	"Collider.h"
+	<SFML/Graphics.hpp>
+
+1650132308 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Living_Entity.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	<fstream>
+	<vector>
+
+1650136344 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	"Living_Entity.h"
+	"Ground.h"
+	<fstream>
+	<vector>
+
+1650133010 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Ennemies/EnnemySkeleton.cpp
+	"../../include/Ennemies/EnnemySkeleton.h"
+	<stdlib.h>
+
+1650135164 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Ennemies/EnnemySkeleton.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1645533256 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Fading.cpp
+	"../include/Fading.h"
+	<math.h>
+	<iostream>
+
+1645532938 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Fading.h
+	<SFML/Graphics.hpp>
+
+1650136008 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Ground.cpp
+	"../include/Ground.h"
+	<iostream>
+	<math.h>
+
+1650134156 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/MainMenu.cpp
+	<SFML/Graphics.hpp>
+	"../include/MainMenu.h"
+
+1650128664 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/MainMenu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1650133706 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Map.cpp
+	"../include/Map.h"
+	<iostream>
+
+1650133602 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Map.h
+	"Ground.h"
+	<vector>
+	<variant>
+	"Living_Entity.h"
+	"Ennemies/EnnemyFlying_eye.h"
+	"Ennemies/EnnemySkeleton.h"
+	"Ennemies/EnnemyBoss1.h"
+
+1650455450 /sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/include/Ennemies/EnnemyBoss1.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1650147278 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Player.cpp
+	<SFML/Graphics.hpp>
+	<typeinfo>
+	<math.h>
+	"../include/Player.h"
+
+1650456916 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Ennemies/EnnemyBoss1.cpp
+	"../../include/Ennemies/EnnemyBoss1.h"
+	<stdlib.h>
+
+1650376298 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/Living_Entity.cpp
+	"../include/Living_Entity.h"
+
+1650379378 source:/sda4/home_of_sda2/titouan/Documents/Projet_CMI_Base/src/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<math.h>
+	"../include/Map.h"
+	"../include/Ground.h"
+	"../include/Animation.h"
+	"../include/Player.h"
+	"../include/Collider.h"
+	"../include/Fading.h"
+	"../include/Living_Entity.h"
+	"../include/MainMenu.h"
+	"../include/Ennemies/EnnemyFlying_eye.h"
+	"../include/Ennemies/EnnemySkeleton.h"
+	"../include/Ennemies/EnnemyBoss1.h"
+
+1650135322 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Animation.cpp
+	"../include/Animation.h"
+	<SFML/Graphics.hpp>
+
+1650135454 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Animation.h
+	<SFML/Graphics.hpp>
+
+1650150674 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Collider.cpp
+	"../include/Collider.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1650135748 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Collider.h
+	<SFML/Graphics.hpp>
+	<math.h>
+
+1650458441 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Ennemies/EnnemyFlying_eye.cpp
+	"../../include/Ennemies/EnnemyFlying_eye.h"
+	<stdlib.h>
+
+1650135080 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Ennemies/EnnemyFlying_eye.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Ground.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	<fstream>
+	<vector>
+
+1650135952 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Ground.h
+	"Collider.h"
+	<SFML/Graphics.hpp>
+
+1650132308 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Living_Entity.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	<fstream>
+	<vector>
+
+1650136344 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<math.h>
+	"Animation.h"
+	"Collider.h"
+	"Living_Entity.h"
+	"Ground.h"
+	<fstream>
+	<vector>
+
+1650458333 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Ennemies/EnnemySkeleton.cpp
+	"../../include/Ennemies/EnnemySkeleton.h"
+	<stdlib.h>
+
+1650135164 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Ennemies/EnnemySkeleton.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1645533256 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Fading.cpp
+	"../include/Fading.h"
+	<math.h>
+	<iostream>
+
+1645532938 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Fading.h
+	<SFML/Graphics.hpp>
+
+1650136008 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Ground.cpp
+	"../include/Ground.h"
+	<iostream>
+	<math.h>
+
+1650376298 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Living_Entity.cpp
+	"../include/Living_Entity.h"
+
+1650457925 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/MainMenu.cpp
+	<SFML/Graphics.hpp>
+	"../include/MainMenu.h"
+
+1650128664 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/MainMenu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1650458787 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Map.cpp
+	"../include/Map.h"
+	<iostream>
+
+1650133602 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Map.h
+	"Ground.h"
+	<vector>
+	<variant>
+	"Living_Entity.h"
+	"Ennemies/EnnemyFlying_eye.h"
+	"Ennemies/EnnemySkeleton.h"
+	"Ennemies/EnnemyBoss1.h"
+
+1650455450 /sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/include/Ennemies/EnnemyBoss1.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+	"../Animation.h"
+	"../Collider.h"
+	"../Living_Entity.h"
+	"../Player.h"
+	"../Ground.h"
+	<fstream>
+	<vector>
+
+1650459649 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Player.cpp
+	<SFML/Graphics.hpp>
+	<typeinfo>
+	<math.h>
+	"../include/Player.h"
+
+1650458435 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/Ennemies/EnnemyBoss1.cpp
+	"../../include/Ennemies/EnnemyBoss1.h"
+	<stdlib.h>
+
+1650459900 source:/sda4/home_of_sda2/titouan/Documents/ProjetCMI_V2/Projet_CMI_Base/src/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<math.h>
+	"../include/Map.h"
+	"../include/Ground.h"
+	"../include/Animation.h"
+	"../include/Player.h"
+	"../include/Collider.h"
+	"../include/Fading.h"
+	"../include/Living_Entity.h"
+	"../include/MainMenu.h"
+	"../include/Ennemies/EnnemyFlying_eye.h"
+	"../include/Ennemies/EnnemySkeleton.h"
+	"../include/Ennemies/EnnemyBoss1.h"
+
