@@ -13,3 +13,5 @@ It's made on Linux and only executable on Linux. The codeblocks project are stil
 - Space : jump
 - D : Attack
 - Return : select menu options
+
+video link here : https://www.youtube.com/watch?v=dKvtMG0eW6k
